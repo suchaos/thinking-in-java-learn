@@ -1,4 +1,4 @@
-package com.suchaos.chapter19;
+package com.suchaos.enums;
 
 /**
  * 由于 values() 方法是由编译器添加的新方法，所有，如果向上转型为 Enum，将无法使用该方法。

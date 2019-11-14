@@ -1,4 +1,4 @@
-package com.suchaos.chapter19;
+package com.suchaos.enums;
 
 /**
  * override enum's toString() method

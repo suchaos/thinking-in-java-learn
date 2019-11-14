@@ -1,4 +1,4 @@
-package com.suchaos.chapter19;
+package com.suchaos.enums;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Type;
