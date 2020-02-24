@@ -1,11 +1,14 @@
 package com.suchaos.enums;
 
+import lombok.extern.slf4j.Slf4j;
+
 /**
  * EnumClass
  *
  * @author suchao
  * @date 2019/2/25
  */
+@Slf4j
 public class EnumClass {
 
     public static void main(String[] args) {
